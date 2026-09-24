@@ -1,4 +1,4 @@
-# Data Science & Machine Learning Projects
+# Data Science & Machine Learning
 
 A comprehensive collection of Jupyter Notebook projects demonstrating practical applications of data science and machine learning techniques to real-world datasets.
 
